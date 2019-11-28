@@ -21,4 +21,4 @@ Created Time 2019-11
         例如：
         <table schema="" tableName="tb_user"></table>
     2.3 POM文件中根据需求更改版本控制信息，基本不用更改
-    2.3 generatorConfig.xml文件中其他配置属性可以根据需求自己更改
+    2.4 generatorConfig.xml文件中其他配置属性可以根据需求自己更改
